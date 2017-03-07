@@ -1,0 +1,22 @@
+{
+  "author": "Your Name Here",
+  "name": "myapp2",
+  "repository": "https://github.com/reapp/kitchen-sink",
+  "description": "",
+  "version": "1.0.0",
+  "main": "./app/app.js",
+  "reapp": "0.8",
+  "scripts": {
+    "test": "",
+    "start": "reapp run"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "qs": "6.4.0",
+    "react": "15.4.2",
+    "react-router": "3.0.2",
+    "reapp-platform": "1.0.9",
+    "reapp-routes": "0.14",
+    "reapp-ui": "0.12.85"
+  }
+}
